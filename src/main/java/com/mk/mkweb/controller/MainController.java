@@ -1,4 +1,4 @@
-package com.mk.mkweb;
+package com.mk.mkweb.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
